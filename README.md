@@ -25,7 +25,7 @@ Técnicos en Hacking es una comunidad para profesionales y entusiastas de la cib
 
 ### 🌐 Conéctate con Nosotros
 
-- **YouTube**: [Técnicos en Hacking - Tutoriales y Cursos](https://www.youtube.com/c/TecnicosEnHacking)
+- **YouTube**: [Técnicos en Hacking - Tutoriales y Cursos]([https://www.youtube.com/c/TecnicosEnHacking)
 - **Facebook**: [Técnicos en Hacking - Comunidad](https://www.facebook.com/profile.php?id=61567254489160)
 - **WhatsApp**: [Únete a nuestro canal](https://whatsapp.com/channel/0029Vasu9Iy2ZjCsnXaOVA1E)
 
